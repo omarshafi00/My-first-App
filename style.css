@@ -1,0 +1,108 @@
+/* Base Styles */
+body {
+ 
+  background-color: #1d1e22;
+  color: #fff;
+  font-family: monospace;
+}
+
+img {
+  border: 1px solid white;
+  border-radius: 5px;
+  max-width: 350px;
+  width: 100%;
+  filter: drop-shadow(0 10px 20px #00000025);
+  margin-left:auto;
+  margin-right:auto;
+
+}
+
+p {
+  color: #8097a6;
+ text-align:middle;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+/* Main Content */
+main {
+  display: flex;
+  flex-direction: row;
+}
+
+.content {
+  width: 80%;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+
+  
+}
+
+.content p {
+  max-width: 100%;
+}
+
+/* Sidebar */
+.sidebar {
+  display: flex;
+  align-items:center;
+  flex-direction: column;
+  width: 20%;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  border-left: 5px dotted #4476a6;
+  height: 90vh;
+}
+
+.titleclass {
+  text-align: center;
+  color: white;
+  font-family: monospace;
+
+}
+
+/* Buttons */
+button,
+.reveal-btn {
+  
+  text-align: center;
+  width: 200px;
+  max-width: 100%;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+  filter: drop-shadow(0 10px 20px #00000025);
+}
+
+button:hover,
+.reveal-btn:hover {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.reveal-btn {
+  border: none;
+  text-decoration: ;
+}
+
+.divcalss {
+  display:grid;
+  justify-content:center;
+  place-items:center;
+  width:400px;
+  border: none;
+ 
+  filter: drop-shadow(0 10px 20px #00000025);
+
+
+}
