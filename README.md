@@ -2,6 +2,8 @@
 
 This is a simple web application that allows you to interactively display random memes, jokes, quotes, and riddles.
 
+# View live websit: https://omarshafi00.github.io/My-first-App/
+
 ## Usage
 
 To use this application, simply open the `index.html` file in your web browser. You will be presented with a set of buttons representing different actions you can take.
