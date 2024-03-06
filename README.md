@@ -2,7 +2,9 @@
 
 This is a simple web application that allows you to interactively display random memes, jokes, quotes, and riddles.
 
-# View live websit: https://omarshafi00.github.io/My-first-App/
+# View live websit
+
+https://omarshafi00.github.io/My-first-App/
 
 ## Usage
 
